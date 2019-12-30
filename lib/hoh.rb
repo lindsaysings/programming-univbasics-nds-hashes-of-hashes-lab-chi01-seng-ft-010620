@@ -4,6 +4,7 @@
 #
 # The tests will guide your construction.
 #
+=begin
  PORTION_1 = {
    label: "Kingdom",
    sub_category: {
@@ -45,6 +46,9 @@
    label: "Species",
    sub_category: nil
  }
+ 
+ =end
+ 
 
 def naming_system
 {
